@@ -1,0 +1,80 @@
+/* CSS */
+
+body {
+color: #F8F8F8;
+background-color: #285A64;
+font-size: 11pt;
+font-weight: normal;
+font-stretch: condensed;
+font-family: Lato,Helvetica,Verdana,sans-serif;
+padding: 0px;
+margin: 8px;
+}
+
+.caption {
+color: #F8F8F8;
+background-color: #285A64;
+text-align: center;
+font-size: 72pt;
+font-weight: bold;
+font-stretch: condensed;
+font-family: Lato,Helvetica,Verdana,sans-serif;
+text-align: center;
+padding: 0px;
+margin: 8px;
+}
+
+.sub_caption {
+color: #F8F8F8;
+background-color: #285A64;
+font-size: 18pt;
+font-weight: bold;
+font-stretch: condensed;
+font-family: Lato,Helvetica,Verdana,sans-serif;
+text-align: center;
+padding: 0px;
+margin: 8px;
+}
+
+.small_caps {
+font-variant: small-caps;
+}
+
+.attention {
+color: black;
+text-align: center;
+font-size: 21pt;
+font-weight: bold;
+padding: 8px;
+}
+
+.guide {
+color: black;
+background-color: #D0BDA0;
+font-size: 14pt;
+font-stretch: condensed;
+padding: 0px;
+}
+
+.column {
+color: black;
+width: 256px;
+text-align: justify;
+font-size: 11pt;
+font-family: Helvetica,sans-serif;
+}
+
+.footer {
+color: #F8F8F8;
+background-color: #285A64;
+font-size: 11pt;
+font-weight: normal;
+font-stretch: condensed;
+font-family: Lato,Helvetica,Verdana,sans-serif;
+text-align: center;
+padding: 0px;
+margin: 8px;
+position: fixed;
+bottom: 8px;
+width: 100%;
+}
