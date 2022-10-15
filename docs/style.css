@@ -159,6 +159,7 @@ padding: 4px;
 }
 
 .footer {
+display: grid;
 color: #000000;
 background-color: #CEECF5;
 grid-column-start: 1;
@@ -166,5 +167,6 @@ grid-column-end: span 72;
 grid-row-start: -3;
 grid-row-end: -1;
 text-align: center;
+place-items: center;
 padding: 4px;
 }
