@@ -16,6 +16,12 @@ color: #F8F8F8;
 background-color: #285A64;
 }
 
+.cat {
+color: black;
+background-color: #CEECF5;
+text-align: right;
+}
+
 .container {
 display: grid;
 grid-template-columns: repeat(72,1fr);
