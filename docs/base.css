@@ -50,6 +50,13 @@ font-family: Lato,Helvetica,Verdana,sans-serif;
 padding: 4px;
 }
 
+.navigate {
+color: #F8F8F8;
+background-color: #285A64;
+text-align: left;
+padding: 4px;
+}
+
 .nv {
 color: #F8F8F8;
 background-color: #285A64;
