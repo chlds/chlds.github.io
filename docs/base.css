@@ -94,28 +94,6 @@ font-family: Lato,Helvetica,Verdana,sans-serif;
 padding: 4px;
 }
 
-.caption_plain {
-color: #F8F8F8;
-background-color: #285A64;
-text-align: left;
-font-size: 22pt;
-font-weight: normal;
-font-stretch: condensed;
-font-family: Lato,Helvetica,Verdana,sans-serif;
-padding: 4px;
-}
-
-.text_plain {
-color: #F8F8F8;
-background-color: #285A64;
-text-align: left;
-font-size: 15pt;
-font-weight: normal;
-font-stretch: condensed;
-font-family: Lato,Helvetica,Verdana,sans-serif;
-padding: 4px;
-}
-
 .small_caps {
 font-variant: small-caps;
 }
