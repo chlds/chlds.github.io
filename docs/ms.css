@@ -1,0 +1,6 @@
+/* CSS */
+
+/* Customize the badge's appearance */
+ms-store-badge::part(img) {
+max-height: 144px;
+}

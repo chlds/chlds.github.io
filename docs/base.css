@@ -22,6 +22,34 @@ background-color: #CEECF5;
 text-align: right;
 }
 
+.center {
+text-align: center;
+}
+
+.justify {
+text-align: justify;
+}
+
+.right {
+text-align: right;
+}
+
+.left {
+text-align: left;
+}
+
+.medium {
+font-size: 48pt;
+}
+
+.large {
+font-size: 72pt;
+}
+
+.pad {
+padding: 16px;
+}
+
 .container {
 display: grid;
 grid-template-columns: repeat(72,1fr);
@@ -172,14 +200,8 @@ padding: 4px;
 }
 
 .footer {
-display: grid;
 color: #000000;
 background-color: #CEECF5;
-grid-column-start: 1;
-grid-column-end: span 72;
-grid-row-start: -3;
-grid-row-end: -1;
 text-align: center;
-place-items: center;
 padding: 4px;
 }
