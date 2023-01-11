@@ -17,9 +17,10 @@ background-color: #285A64;
 }
 
 .cat {
-color: black;
-background-color: #CEECF5;
-text-align: right;
+color: white;
+background-color: #184A54;
+text-align: left;
+padding: 4px;
 }
 
 .flex {
@@ -208,8 +209,8 @@ padding: 4px;
 }
 
 .footer {
-color: #000000;
-background-color: #CEECF5;
+color: white;
+background-color: #184A54;
 text-align: center;
 padding: 4px;
 }
