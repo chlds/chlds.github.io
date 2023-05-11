@@ -104,6 +104,14 @@ font-size: 18pt;
 float: right;
 }
 
+.child_float_14 {
+font-size: 14pt;
+}
+
+.child_float_12 {
+font-size: 12pt;
+}
+
 .container {
 display: grid;
 grid-template-columns: repeat(72,1fr);
