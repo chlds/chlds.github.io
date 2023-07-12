@@ -197,7 +197,7 @@ padding: 4px;
 .sub_item1 {
 color: #F8F8F8;
 background-color: #285A64;
-grid-column: calc(1 + (0 * (18))) / span 10;
+grid-column: calc(1 + (0 * (18))) / span 18;
 grid-row: calc(1 + (2 + (3))) / span 20;
 text-align: justify;
 font-size: 11pt;
