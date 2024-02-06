@@ -13,6 +13,25 @@ padding: 4px;
 }
 //*/
 
+.child1 {
+float:left;
+width:15%;
+}
+
+.child2 {
+float:left;
+width:10%;
+}
+
+.child3 {
+float:left;
+width:75%;
+}
+
+.parent {
+width:100%;
+}
+
 .article {
 // color: #F8F8F8;
 // background-color: #285A64;
