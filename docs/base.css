@@ -6,7 +6,6 @@ background-color: #1F1F1F;
 font-size: 11pt;
 font-family: 'Bellefair',Lato,Helvetica,Verdana,sans-serif;
 font-weight: normal;
-// font-stretch: condensed;
 padding: 4px;
 margin: 0px;
 }
@@ -48,25 +47,21 @@ color: #D8D8D8;
 h1 {
 font-family: 'Bellefair',Lato,Helvetica,Verdana,sans-serif;
 font-weight: normal;
-// font-stretch: condensed;
 }
 
 h2 {
 font-family: 'Bellefair',Lato,Helvetica,Verdana,sans-serif;
 font-weight: normal;
-// font-stretch: condensed;
 }
 
 h3 {
 font-family: 'Bellefair',Lato,Helvetica,Verdana,sans-serif;
 font-weight: normal;
-// font-stretch: condensed;
 }
 
 h4 {
 font-family: 'Bellefair',Lato,Helvetica,Verdana,sans-serif;
 font-weight: normal;
-// font-stretch: condensed;
 }
 
 .cat {
@@ -84,28 +79,8 @@ display: flex;
 width: 80px;
 }
 
-.center {
-text-align: center;
-}
-
-.justify {
-text-align: justify;
-}
-
-.right {
-text-align: right;
-}
-
 .left {
 text-align: left;
-}
-
-.medium {
-font-size: 48pt;
-}
-
-.large {
-font-size: 72pt;
 }
 
 .pad {
@@ -134,15 +109,6 @@ font-size: 18pt;
 float: center;
 }
 
-.float_right {
-width:50%;
-background-color: black;
-text-color: white;
-text-align: center;
-font-size: 18pt;
-float: right;
-}
-
 .child_float_14 {
 font-size: 14pt;
 }
@@ -169,21 +135,6 @@ text-align: center;
 font-size: 72pt;
 font-family: 'Bellefair',Lato,Helvetica,Verdana,sans-serif;
 font-weight: normal;
-// font-weight: bold;
-// font-stretch: condensed;
-}
-
-.caption_mini {
-color: #F8F8F8;
-background-color: #285A64;
-grid-column: 1 / span 72;
-grid-row: calc(1 + (8)) / span 3;
-text-align: center;
-font-size: 18pt;
-font-weight: bold;
-font-stretch: condensed;
-font-family: Lato,Helvetica,Verdana,sans-serif;
-padding: 4px;
 }
 
 .navigation {
@@ -230,8 +181,6 @@ padding: 4px;
 text-align: left;
 font-size: 21pt;
 font-family: 'Bellefair',Lato,Helvetica,Verdana,sans-serif;
-// font-weight: bold;
-// font-stretch: condensed;
 }
 
 .sub_item1 {
@@ -244,19 +193,10 @@ text-align: justify;
 font-family: 'Bellefair',Lato,Helvetica,Verdana,sans-serif;
 font-size: 15pt;
 font-weight: normal;
-// font-stretch: condensed;
 }
 
 .small_caps {
 font-variant: small-caps;
-}
-
-.attention {
-color: black;
-text-align: center;
-font-size: 21pt;
-font-weight: bold;
-padding: 4px;
 }
 
 .footer {
@@ -268,5 +208,4 @@ text-align: center;
 font-family: 'Bellefair',Lato,Helvetica,Verdana,sans-serif;
 font-size: 16pt;
 font-weight: normal;
-// font-stretch: condensed;
 }
