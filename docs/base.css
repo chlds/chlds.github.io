@@ -148,10 +148,11 @@ padding: 2px;
 }
 
 .navigate {
-color: #F8F8F8;
-background-color: #285A64;
-text-align: left;
-padding: 4px;
+color:#F8F8F8;
+background-color:#285A64;
+font-family:'Ysabeau',sans-serif;
+text-align:left;
+padding:4px;
 }
 
 .nv {
