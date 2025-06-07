@@ -1,0 +1,23 @@
+/* CSS */
+
+:root {
+--dark:#101010;
+--graphite:#404040;
+--ash:#E0E0E0;
+/* no dark theme */
+--color-of-fg:var(--dark);
+--color-of-bg:white;
+--color-of-anchor-active:rgb(160,160,56);
+--color-of-anchor-hover:rgb(192,192,72);
+--color-of-anchor-link:var(--color-of-fg);
+--color-of-anchor-visited:var(--color-of-fg);
+--color-of-hr:var(--color-of-fg);
+/* dark theme */
+--dark-color-of-fg:var(--ash);
+--dark-color-of-bg:var(--graphite);
+--dark-color-of-anchor-active:rgb(160,160,56);
+--dark-color-of-anchor-hover:rgb(192,192,72);
+--dark-color-of-anchor-link:var(--color-of-fg);
+--dark-color-of-anchor-visited:var(--color-of-fg);
+--dark-color-of-hr:var(--dark-color-of-fg);
+}

@@ -1,0 +1,78 @@
+/* CSS */
+
+@font-face {
+font-family:'Unifont';
+src:url('./../fonts/unifont-16.0.03.otf') format('opentype');
+}
+
+.body {
+color:var(--dark-color-of-fg);
+background-color:var(--dark-color-of-bg);
+display:block;
+font-family:'Unifont',sans-serif;
+font-size:14pt;
+margin-left:0rem;
+margin-top:0rem;
+margin-right:0rem;
+margin-bottom:0rem;
+height:auto;
+width:auto;
+}
+.header {
+color:none;
+background-color:none;
+display:block;
+height:auto;
+width:auto;
+}
+.aside {
+color:none;
+background-color:none;
+display:block;
+height:auto;
+width:auto;
+}
+.main {
+color:none;
+background-color:none;
+display:block;
+height:auto;
+width:auto;
+}
+.footer {
+color:none;
+background-color:none;
+display:block;
+height:auto;
+width:auto;
+}
+.heavy_horizontal {
+color:none;
+background-color:var(--color-of-hr);
+border:none;
+height:2px;
+width:auto;
+}
+.horizontal {
+color:none;
+background-color:var(--color-of-hr);
+border:none;
+height:1px;
+width:auto;
+}
+.short_horizontal {
+color:none;
+background-color:var(--color-of-hr);
+border:none;
+height:1px;
+width:2em;
+}
+img {
+height:auto;
+width:auto;
+}
+@media screen and (max-width:640px) {
+img {
+height:auto;
+width:160px;
+}}

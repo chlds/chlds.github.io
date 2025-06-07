@@ -1,0 +1,83 @@
+.facial {
+color:none;
+background-color:none;
+display:block;
+height:auto;
+width:auto;
+padding-left:3rem;
+padding-right:3rem;
+}
+.deck {
+color:none;
+background-color:none;
+display:block;
+text-align:center;
+letter-spacing:0.1em;
+height:auto;
+width:auto;
+}
+.masthead {
+color:none;
+background-color:none;
+display:inline-block;
+text-align:left;
+height:auto;
+width:auto;
+}
+.dateline {
+color:none;
+background-color:none;
+display:inline-block;
+text-align:right;
+height:auto;
+width:auto;
+}
+.description {
+color:none;
+background-color:none;
+display:inline-block;
+height:auto;
+width:auto;
+padding-left:3rem;
+padding-right:3rem;
+}
+.headline {
+color:none;
+background-color:none;
+display:block;
+text-align:center;
+height:auto;
+width:auto;
+}
+.dropline {
+color:none;
+background-color:none;
+display:block;
+text-align:center;
+height:auto;
+width:auto;
+}
+.byline {
+color:none;
+background-color:none;
+display:inline-block;
+text-align:left;
+height:auto;
+width:auto;
+padding-left:3rem;
+padding-right:3rem;
+}
+.lead {
+color:none;
+background-color:none;
+display:block;
+height:auto;
+width:auto;
+margin:0em;
+}
+.lead:first-letter {
+color:none;
+background-color:none;
+initial-letter:1.5;
+margin:0.25em;
+}
