@@ -1,10 +1,4 @@
 /* CSS */
-
-@font-face {
-font-family:'Unifont';
-src:url('./../fonts/unifont-16.0.03.otf') format('opentype');
-}
-
 .body {
 color:var(--dark-color-of-fg);
 background-color:var(--dark-color-of-bg);

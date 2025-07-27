@@ -1,5 +1,9 @@
 /* CSS */
-
+@font-face {
+font-family:'Unifont';
+src:url('./../fonts/unifont-16.0.03.woff2') format('woff2');
+font-display:swap;
+}
 :root {
 --dark:#101010;
 --graphite:#404040;
